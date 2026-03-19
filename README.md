@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Latonya Ifill
 
-<!--
-**ifilllatonya/ifilllatonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web & Mobile App Developer | Founder of Template Craft LLC
+Building real-world apps, websites, and digital platforms for churches, ministries, and entrepreneurs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Build custom websites & mobile apps
+- Convert ideas into fully functional platforms
+- Develop Progressive Web Apps (PWA) and native apps
+- Help organizations go from offline → digital presence
+
+---
+
+## 💼 Business
+
+Template Craft LLC  
+https://templatecraftllc.com
+
+---
+
+## 🔧 Tech Stack
+
+- HTML5, CSS3, JavaScript
+- React Native
+- PWA Development
+- Git & GitHub
+
+---
+
+## 📱 Current Project
+
+JCCOGTB Native App  
+Full church platform rebuilt into a native mobile app
+
+---
+
+## ⚡ About Me
+
+I build real systems from the ground up.  
+Not the smartest — just driven.
