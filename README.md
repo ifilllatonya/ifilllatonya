@@ -1,66 +1,20 @@
-# 👋 Hi, I'm Latonya Ifill
+# Hi, I'm Latonya Ifill 👋
 
-Web & Mobile App Developer | Founder of Template Craft LLC
-Building real-world apps, websites, and digital platforms for churches, ministries, and entrepreneurs.
+**Founder & App / Web Developer at [Template Craft LLC](https://templatecraftllc.com)** — I design, build, and ship custom mobile apps and websites for businesses, churches, and creators.
 
----
+I don't just write code — I take products from idea to **live in the App Store.**
 
-## 🚀 What I Do
+## 🚀 Apps I've shipped
+- **JCCOGTB Southern District** — a full church app (events, giving, media, community)
+  📱 [App Store](https://apps.apple.com/app/id6771166549) · [Google Play](https://play.google.com/store/apps/details?id=com.jccogtb.app) · 🌐 [Website](https://jccogtb.com) · [Web App (PWA)](https://app.jccogtb.com)
+- **Jesus Camp Resort** — info & booking app for a faith retreat
+  📱 [App Store](https://apps.apple.com/app/id6773993261) · [Google Play](https://play.google.com/store/apps/details?id=com.jcr.app)
 
-* Build custom **websites & mobile apps**
-* Convert ideas into **fully functional platforms**
-* Develop **Progressive Web Apps (PWA) and native apps**
-* Help organizations go from **offline → digital presence**
+## 🛠️ What I work with
+React Native · Expo · TypeScript · NestJS · Node · HTML / CSS / JS
 
----
+## 💼 What I do
+Through Template Craft LLC I deliver done-for-you apps and websites — design, build, launch, and ongoing support. Clean, reliable, built to grow.
 
-## 💼 Business
-
-**Template Craft LLC**
-Custom Websites • Web Apps • Mobile Apps
-
-🌐 https://templatecraftllc.com
-
----
-
-## 🔧 Tech Stack
-
-* HTML5, CSS3, JavaScript
-* React Native (Mobile Apps)
-* Progressive Web Apps (PWA)
-* Git & GitHub
-* Mobile-first UI/UX Design
-
----
-
-## 📱 Current Project
-
-**JCCOGTB Native App**
-
-* Rebuilding a full church platform into a native mobile app
-* Includes announcements, livestream, events, giving, locations, and resources
-* Designed for real ministry use with real data (not placeholders)
-
----
-
-## 📈 What I'm Focused On
-
-* Building scalable mobile apps
-* Strengthening backend systems
-* Creating high-value digital products
-* Expanding Template Craft LLC
-
----
-
-## 🤝 Let's Connect
-
-* Website: https://templatecraftllc.com
-* GitHub: https://github.com/ifilllatonya
-
----
-
-## ⚡ About Me
-
-I’m a self-taught developer who builds real systems from the ground up.
-Not the smartest — just driven.
-
+## 📫 Reach me
+🌐 [templatecraftllc.com](https://templatecraftllc.com) · ✉️ latonya@templatecraftllc.com
