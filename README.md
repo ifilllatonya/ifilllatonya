@@ -11,11 +11,24 @@ I take products from idea to **live in the App Store.**
 
 <a href="https://templatecraftllc.com"><img src="https://img.shields.io/badge/Website-templatecraftllc.com-E91E8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.upwork.com/freelancers/~0139505c75f8ee32f3"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+<a href="https://www.facebook.com/templatecraftllc"><img src="https://img.shields.io/badge/Facebook-Template%20Craft%20LLC-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:latonya@templatecraftllc.com"><img src="https://img.shields.io/badge/Email-latonya@templatecraftllc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ### Open for freelance — custom apps, member portals, and booking systems.
 
 </div>
+
+---
+
+## About Me
+
+Hi, I'm Latonya — founder of **Template Craft LLC**. I design and build custom apps and websites for business owners, creatives, and ministries, and I do the work myself from first sketch to store launch.
+
+- **Two apps live in the App Store**, not demo links — built, submitted, and maintained by me
+- **Full-stack TypeScript** — React Native and Expo on mobile, NestJS and PostgreSQL behind it
+- **Real production features** — Stripe payments, real-time chat, push notifications, and AI assistants
+- **Admin tools a non-technical owner can actually run**, because most of my clients are not developers
+- **Based in the USA**, working with clients anywhere
 
 ---
 
