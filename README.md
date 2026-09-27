@@ -24,7 +24,7 @@ I take products from idea to **live in the App Store.**
 
 Hi, I'm Latonya — founder of **Template Craft LLC**. I design and build custom apps and websites for business owners, creatives, and ministries, and I do the work myself from first sketch to store launch.
 
-- **Two apps live in the App Store**, not demo links — built, submitted, and maintained by me
+- **Five apps built, two live in the App Store** — not demo links, and I handled every submission myself
 - **Full-stack TypeScript** — React Native and Expo on mobile, NestJS and PostgreSQL behind it
 - **Real production features** — Stripe payments, real-time chat, push notifications, and AI assistants
 - **Admin tools a non-technical owner can actually run**, because most of my clients are not developers
@@ -71,6 +71,20 @@ Stripe payments · accommodations and bookings · donations · events and galler
 </td>
 </tr>
 </table>
+
+---
+
+## Also Built
+
+More apps from the same stack, at various stages of release:
+
+| App | What it is | Status |
+|---|---|---|
+| **COGTB Temple** | Church app for a temple congregation | In App Store review |
+| **ChurchApp by Template Craft** | Ready-to-launch church app any congregation can brand as their own | Preparing for submission |
+| **Ifill Gospel Studio** | A home for gospel music and the people who make it | Preparing for submission |
+
+All React Native and Expo on the front, NestJS and PostgreSQL behind.
 
 ---
 
