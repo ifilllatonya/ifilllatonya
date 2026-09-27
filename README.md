@@ -24,7 +24,7 @@ I take products from idea to **live in the App Store.**
 
 Hi, I'm Latonya — founder of **Template Craft LLC**. I design and build custom apps and websites for business owners, creatives, and ministries, and I do the work myself from first sketch to store launch.
 
-- **Five apps built, two live in the App Store** — not demo links, and I handled every submission myself
+- **Five apps built, three live in the App Store** — not demo links, and I handled every submission myself
 - **Full-stack TypeScript** — React Native and Expo on mobile, NestJS and PostgreSQL behind it
 - **Real production features** — Stripe payments, real-time chat, push notifications, and AI assistants
 - **Admin tools a non-technical owner can actually run**, because most of my clients are not developers
@@ -34,7 +34,7 @@ Hi, I'm Latonya — founder of **Template Craft LLC**. I design and build custom
 
 ## Apps I've Shipped
 
-> Live in the App Store **and** on Google Play. Built, submitted, and maintained by me.
+> Live in the App Store. Built, submitted, and maintained by me.
 
 <table>
 <tr>
@@ -72,15 +72,23 @@ Stripe payments · accommodations and bookings · donations · events and galler
 </tr>
 </table>
 
+### COGTB Temple
+**Church app for the Temple congregation — the third app on this platform, live in the App Store.**
+
+The same system behind the Southern District app, rebuilt for a different congregation with its own branding, content, and leadership structure. Proof the platform ships more than once.
+
+[![Website](https://img.shields.io/badge/Website-cogtb.com-E91E8C?style=flat-square&logo=googlechrome&logoColor=white)](https://cogtb.com)
+
+`React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL`
+
 ---
 
 ## Also Built
 
-More apps from the same stack, at various stages of release:
+Two more from the same stack, finished and heading to the store:
 
 | App | What it is | Status |
 |---|---|---|
-| **COGTB Temple** | Church app for a temple congregation | In App Store review |
 | **ChurchApp by Template Craft** | Ready-to-launch church app any congregation can brand as their own | Preparing for submission |
 | **Ifill Gospel Studio** | A home for gospel music and the people who make it | Preparing for submission |
 
