@@ -79,7 +79,6 @@ The same system behind the Southern District app, rebuilt for a different congre
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/cogtb-temple/id6782110165)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cogtbtemple.app)
-[![Website](https://img.shields.io/badge/Website-cogtb.com-E91E8C?style=flat-square&logo=googlechrome&logoColor=white)](https://cogtb.com)
 
 `React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL`
 
