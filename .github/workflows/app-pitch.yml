@@ -1,0 +1,81 @@
+name: App pitch
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: app-pitch
+  cancel-in-progress: false
+
+jobs:
+  draw:
+    if: contains(github.event.issue.labels.*.name, 'app-pitch')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read the pitch
+        env:
+          BODY: ${{ github.event.issue.body }}
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          python3 .github/scripts/parse_pitch.py >> "$GITHUB_ENV"
+
+      - name: Draw it
+        env:
+          PITCH_NUMBER: ${{ github.event.issue.number }}
+          PITCH_USER: ${{ github.event.issue.user.login }}
+        run: python3 .github/scripts/make_pitch.py
+
+      - name: Render a PNG
+        env:
+          N: ${{ github.event.issue.number }}
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq librsvg2-bin
+          rsvg-convert -w 600 "pitches/${N}.svg" -o "pitches/${N}.png"
+
+      - name: Commit the tile
+        env:
+          N: ${{ github.event.issue.number }}
+          WHO: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pitches README.md
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "App pitch #${N} from @${WHO}"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 5))
+          done
+          git push
+
+      - name: Reply to the pitch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          N: ${{ github.event.issue.number }}
+          WHO: ${{ github.event.issue.user.login }}
+          REPO: ${{ github.repository }}
+          OWNER: ${{ github.repository_owner }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          IMG="https://raw.githubusercontent.com/${REPO}/${BRANCH}/pitches/${N}.png"
+          {
+            printf "Here is your app, @%s.\n\n" "$WHO"
+            printf '<img src="%s" width="260">\n\n' "$IMG"
+            printf "That took a few seconds, and it is a sketch rather than a product. "
+            printf "The real version is a working app in the App Store and on Google Play, "
+            printf "with the booking, the payments and the admin side behind it. I have shipped four.\n\n"
+            printf "If you want yours built for real: templatecraftllc@gmail.com or templatecraftllc.com\n\n"
+            printf "Your sketch is now on my wall at https://github.com/%s\n" "$OWNER"
+          } > "${RUNNER_TEMP}/pitch-body.md"
+          gh issue comment "$N" --body-file "${RUNNER_TEMP}/pitch-body.md"

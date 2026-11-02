@@ -1,0 +1,22 @@
+name: "Pitch me your app"
+description: "Tell me what your business does and I'll draw the app for it."
+title: "App pitch: "
+labels: ["app-pitch"]
+body:
+  - type: markdown
+    attributes:
+      value: "Two questions. You'll get a phone mock-up back in under a minute, and it goes up on my wall."
+  - type: input
+    id: business
+    attributes:
+      label: Business name
+      placeholder: "Twin's Mobile Detailing"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What does it do, and what should the app handle?
+      placeholder: "Mobile car detailing. Customers should book a slot and pay a deposit."
+    validations:
+      required: true
