@@ -24,7 +24,7 @@ I take products from idea to **live in the App Store.**
 
 Hi, I'm Latonya — founder of **Template Craft LLC**. I design and build custom apps and websites for business owners, creatives, and ministries, and I do the work myself from first sketch to store launch.
 
-- **Five apps built, three live in the App Store** — not demo links, and I handled every submission myself
+- **Apps live in the App Store and on Google Play** — not demo links, and I handled every submission myself
 - **Full-stack TypeScript** — React Native and Expo on mobile, NestJS and PostgreSQL behind it
 - **Real production features** — Stripe payments, real-time chat, push notifications, and AI assistants
 - **Admin tools a non-technical owner can actually run**, because most of my clients are not developers
@@ -73,7 +73,7 @@ Stripe payments · accommodations and bookings · donations · events and galler
 </table>
 
 ### COGTB Temple
-**Church app for the Temple congregation — the third app on this platform, live in the App Store.**
+**Church app for the Temple congregation, live in the App Store.**
 
 The same system behind the Southern District app, rebuilt for a different congregation with its own branding, content, and leadership structure. Proof the platform ships more than once.
 
@@ -82,15 +82,24 @@ The same system behind the Southern District app, rebuilt for a different congre
 
 `React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL`
 
+### ChurchApp by Template Craft
+**A ready-to-launch church app any congregation can brand as their own, live in the App Store.**
+
+The platform as a product instead of a one-off build: a church picks its colors, logo, and content, and the app is theirs. Events, giving, announcements, media, and a member directory out of the box.
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/id6784542879)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.templatecraft.churchapp)
+
+`React Native` `Expo` `TypeScript` `NestJS` `PostgreSQL`
+
 ---
 
 ## Also Built
 
-Two more from the same stack, finished and heading to the store:
+From the same stack, finished and heading to the store:
 
 | App | What it is | Status |
 |---|---|---|
-| **ChurchApp by Template Craft** | Ready-to-launch church app any congregation can brand as their own | Preparing for submission |
 | **Ifill Gospel Studio** | A home for gospel music and the people who make it | Preparing for submission |
 
 All React Native and Expo on the front, NestJS and PostgreSQL behind.
