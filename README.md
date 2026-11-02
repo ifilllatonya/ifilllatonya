@@ -114,6 +114,6 @@ After launch you get the admin dashboard. Content, images, announcements and you
 
 <div align="center">
 
-**[templatecraftllc.com](https://templatecraftllc.com)** &nbsp;·&nbsp; **[latonya@templatecraftllc.com](mailto:latonya@templatecraftllc.com)**
+**[templatecraftllc.com](https://templatecraftllc.com)** &nbsp;·&nbsp; **[latonya@templatecraftllc.com](mailto:latonya@templatecraftllc.com)** &nbsp;·&nbsp; **[Request me on Upwork](https://www.upwork.com/freelancers/~0139505c75f8ee32f3)**
 
 </div>
