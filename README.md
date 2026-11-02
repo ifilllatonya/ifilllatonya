@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Latonya Ifill — Template Craft LLC" width="100%" />
+<img src="assets/banner.svg" alt="Latonya Ifill — Template Craft LLC" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2800&pause=700&color=FF2E9A&center=true&vCenter=true&width=820&height=52&lines=Web+%26+Mobile+App+Developer;Idea+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+App+Store;Apps+real+people+use+every+Sunday;Beautiful+designs.+Powerful+apps.+Real+results." alt="Latonya Ifill" />
 
