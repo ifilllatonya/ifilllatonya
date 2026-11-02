@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=32&duration=2800&pause=700&color=E91E8C&center=true&vCenter=true&width=820&height=60&lines=Hi+%F0%9F%91%8B+I'm+Latonya+Ifill;Web+%26+Mobile+App+Developer;I+design.+I+code.+I+build.;Beautiful+designs.+Powerful+apps.+Real+results." alt="Latonya Ifill" />
+<img src="assets/banner.png" alt="Latonya Ifill — Template Craft LLC" width="100%" />
 
-### Founder of [Template Craft LLC](https://templatecraftllc.com)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2800&pause=700&color=FF2E9A&center=true&vCenter=true&width=820&height=52&lines=Web+%26+Mobile+App+Developer;Idea+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+App+Store;Apps+real+people+use+every+Sunday;Beautiful+designs.+Powerful+apps.+Real+results." alt="Latonya Ifill" />
 
-**Custom mobile apps and websites for businesses, churches, and creators.**
-I take products from idea to **live in the App Store.**
+<a href="https://github.com/ifilllatonya?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/ifilllatonya?style=for-the-badge&color=FF2E9A&labelColor=9C0F5B&logo=person-add&logoColor=white&label=FOLLOW%20ME" alt="Follow"></a>
+<img src="https://komarev.com/ghpvc/?username=ifilllatonya&style=for-the-badge&color=FF2E9A&label=PROFILE+VIEWS" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=ifilllatonya&style=for-the-badge&color=E91E8C&label=PROFILE+VIEWS" alt="Profile views" />
-
-<a href="https://templatecraftllc.com"><img src="https://img.shields.io/badge/Website-templatecraftllc.com-E91E8C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://templatecraftllc.com"><img src="https://img.shields.io/badge/Website-templatecraftllc.com-FF2E9A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.upwork.com/freelancers/~0139505c75f8ee32f3"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
-<a href="https://www.facebook.com/templatecraftllc"><img src="https://img.shields.io/badge/Facebook-Template%20Craft%20LLC-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="mailto:latonya@templatecraftllc.com"><img src="https://img.shields.io/badge/Email-latonya@templatecraftllc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.facebook.com/templatecraftllc"><img src="https://img.shields.io/badge/Facebook-Template%20Craft-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:latonya@templatecraftllc.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-### Open for freelance — custom apps, member portals, and booking systems.
+### Open for freelance and full-time work
 
 </div>
 
@@ -110,24 +108,12 @@ All React Native and Expo on the front, NestJS and PostgreSQL behind.
 
 <div align="center">
 
-**Mobile**
+[![My stack](https://skillicons.dev/icons?i=react,ts,js,nodejs,nestjs,postgres,prisma,tailwind,html,css,figma,git,github,vscode&perline=7)](https://skillicons.dev)
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-**Backend and Data**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Payments and AI**
-
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
